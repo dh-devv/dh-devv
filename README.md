@@ -1,42 +1,58 @@
-# Hi there, I’m Dongheon 👋
+# Hi there, I'm Dongheon 👋
 
-🎓 Computer Science High School Student in Busan, South Korea
+🎓 Computer Science High School Student in South Korea
 
-I’m currently building a strong foundation in **Python, Linux, and AWS** while documenting my learning journey through hands-on practice and small projects.
+🌱 Currently learning **Python, Linux, AWS, and Java**
 
----
-
-## Currently Learning
-
-* 🐍 Python
-* 🐧 Linux (Ubuntu, Bash, Shell)
-* ☁️ AWS Cloud Fundamentals
-* 🧰 Git & GitHub
+🎯 Interested in **Cloud Computing, Linux, and Backend Development**
 
 ---
 
-## Featured Repositories
+## 🚀 About Me
 
-* **python-practice** – Python fundamentals, algorithms, and mini projects
-* **linux-practice** – Linux command practice and study notes
-* **aws-practice** – AWS learning repository (in progress)
-
----
-
-## Goals
-
-* Build practical backend and cloud development skills
-* Create projects that combine Python and Linux
-* Learn cloud infrastructure and deployment
-* Grow into a cloud/backend engineer
+- 🐍 Learning Python through hands-on practice
+- 🐧 Studying Linux with Ubuntu
+- ☁️ Building cloud fundamentals with AWS
+- 📚 Documenting my learning journey on GitHub
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-`Python` `Linux` `Git` `GitHub` `VS Code` `Ubuntu`
+**Currently Learning**
+
+- Python
+- Linux
+- Git & GitHub
+- AWS
+- Java
+
+**Next Goals**
+
+- Docker
+- Kubernetes
+- MySQL
+- Networking
 
 ---
 
-Thanks for visiting my GitHub profile! 🚀
+## 📂 Featured Projects
 
+- Python Practice
+- Linux Practice
+- AWS Practice *(Coming Soon)*
+- Java Practice *(Coming Soon)*
+
+---
+
+## 💡 Philosophy
+
+> Consistency beats intensity.
+
+I believe that learning step by step and documenting the process leads to long-term growth.
+
+---
+
+## 📫 Contact
+
+GitHub: **@dh-devv**
