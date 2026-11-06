@@ -11,6 +11,7 @@
 ## 🚀 About Me
 
 - 🐍 Learning Python through hands-on practice
+- ☕ Mastering Java through hands-on practice
 - 🐧 Studying Linux with Ubuntu
 - ☁️ Building cloud fundamentals with AWS
 - 📚 Documenting my learning journey on GitHub
@@ -24,11 +25,11 @@
 - Python
 - Linux
 - Git & GitHub
-- AWS
 - Java
 
 **Next Goals**
 
+- AWS
 - Docker
 - Kubernetes
 - MySQL
@@ -40,8 +41,8 @@
 
 - Python Practice
 - Linux Practice
+- Java Practice
 - AWS Practice *(Coming Soon)*
-- Java Practice *(Coming Soon)*
 
 ---
 
