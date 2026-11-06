@@ -1,48 +1,33 @@
 # Hi there, I'm Dongheon 👋
 
 🎓 Computer Science High School Student in South Korea
-
-🌱 Currently learning **Python, Linux, AWS, and Java**
-
-🎯 Interested in **Cloud Computing, Linux, and Backend Development**
-
----
-
-## 🚀 About Me
-
-- 🐍 Learning Python through hands-on practice
-- ☕ Mastering Java through hands-on practice
-- 🐧 Studying Linux with Ubuntu
-- ☁️ Building cloud fundamentals with AWS
-- 📚 Documenting my learning journey on GitHub
+☕ Learning Java to become a **Backend Developer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Currently Learning**
+**Learning (직접 공부하며 기록 중)**
 
-- Python
-- Linux
+- Java (문법, 객체 지향)
+- Python, C
+- Linux (Ubuntu), Networking
 - Git & GitHub
-- Java
 
 **Next Goals**
 
-- AWS
-- Docker
-- Kubernetes
+- Spring Boot, JPA
 - MySQL
-- Networking
+- Docker, AWS
 
 ---
 
 ## 📂 Featured Projects
 
-- Python Practice
-- Linux Practice
-- Java Practice
-- AWS Practice *(Coming Soon)*
+- **[Java Practice](https://github.com/dh-devv/java-practice)** — Java 기초와 객체 지향 학습 기록
+- **[Linux Practice](https://github.com/dh-devv/linux-practice)** — Ubuntu 명령어와 셸 스크립트 정리
+- **[Python Practice](https://github.com/dh-devv/python-practice)** — Python 기초부터 웹 크롤링까지
+- **[Project Escape](https://github.com/dh-devv/project-escape)** — Unity 기반 게임 프로젝트 *(AI 도구를 활용한 바이브 코딩으로 제작)*
 
 ---
 
