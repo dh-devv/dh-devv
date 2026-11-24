@@ -1,44 +1,49 @@
 <div align="center">
 
-# Hi, I'm Dongheon 👋
+![Hi, I'm Dongheon. Python, Java and Linux.](assets/profile-banner.svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+Python%2C+Java%2C+C+%26+Linux;Exploring+backend+development+with+Java;Building+projects+with+AI-assisted+coding" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1400&amp;color=679AC8&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Learning+Python%2C+Java%2C+C+%26+Linux;Exploring+backend+development" alt="Learning Python, Java, C and Linux; exploring backend development." />
 
-🎓 Computer Science Student · South Korea
+**Computer Science Student** · South Korea
 
 </div>
 
 ---
 
-### About me
+### About
 
-I'm exploring Python, Java, C, Linux, and networking while working toward backend development with Java. I use AI-assisted coding to try ideas, build projects, and document what I learn.
+I'm a computer science student studying programming and systems, with an interest in Java backend development.
 
 ### Currently learning
 
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Learning-ED8B00?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-Learning-A8B9CC?logo=c&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-Studying-1F6FEB)
+![Python: Learning](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java: Learning](https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C: Learning](https://img.shields.io/badge/C-Learning-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Linux: Learning](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Networking: Studying](https://img.shields.io/badge/Networking-Studying-1F6FEB?style=flat-square)
 
 **On my learning roadmap:** Spring Boot · JPA · MySQL · Docker · AWS
 
-### Featured project
+### Project
 
-**[LAST SPARK — Project Escape](https://github.com/dh-devv/project-escape)** is a team-built 2D action game where the player's abilities change as their HP drops.<br/>
-**Gameplay:** HP-based phases, boss fights, and score/ranking features.<br/>
+**[LAST SPARK — Project Escape](https://github.com/dh-devv/project-escape)** · AI-assisted team project
+
+A 2D action game where losing HP changes the player's abilities. The team project includes boss fights and score rankings.
+
 **My contributions:** backend, database, Unity–API integration, and Docker/AWS deployment setup.<br/>
-*An AI-assisted team project; see the repository for implementation details.*
+**Project tech:** Unity · Spring Boot · MySQL · Docker · AWS
 
-**Tech:** Unity · Spring Boot · MySQL · Docker · AWS
+### Study notes
 
-### Learning logs
-
-- [Java Practice](https://github.com/dh-devv/java-practice) — Java fundamentals and object-oriented programming
-- [Python Practice](https://github.com/dh-devv/python-practice) — Python basics, algorithms, and web crawling
-- [Linux Practice](https://github.com/dh-devv/linux-practice) — Ubuntu commands and shell scripting
+- [**Java Practice**](https://github.com/dh-devv/java-practice) — fundamentals and object-oriented programming
+- [**Python Practice**](https://github.com/dh-devv/python-practice) — basics, algorithms, and web crawling
+- [**C Practice**](https://github.com/dh-devv/c-practice) — C programming fundamentals
+- [**Linux Practice**](https://github.com/dh-devv/linux-practice) — Ubuntu commands and shell scripting
 
 ---
 
-> Learning in public, one project at a time.
+<div align="center">
+
+<sub>Consistency beats intensity.</sub>
+
+</div>
