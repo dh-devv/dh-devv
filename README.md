@@ -39,12 +39,6 @@ I'm exploring Python, Java, C, Linux, and networking while working toward backen
 - [Python Practice](https://github.com/dh-devv/python-practice) — Python basics, algorithms, and web crawling
 - [Linux Practice](https://github.com/dh-devv/linux-practice) — Ubuntu commands and shell scripting
 
-### Language snapshot
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dh-devv&layout=compact&theme=github_dark&hide_border=true&hide_title=true)
-
-<sub>Based on code in public repositories; this is not a measure of proficiency.</sub>
-
 ---
 
 > Learning in public, one project at a time.
